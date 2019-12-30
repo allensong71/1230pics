@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>1230</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>0</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>14. Noble</ImageTemplate>
+            <ImageTemplateName>Noble</ImageTemplateName>
+            <ImageWidth>0</ImageWidth>
+            <PublishFileName>C:/Users/allen71/Desktop/TEMP/slideshow.html</PublishFileName>
+            <PublishIndex>slideshow.html</PublishIndex>
+            <PublishPath>C:/Users/allen71/Desktop/TEMP</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>7</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>180</ThumbHeight>
+            <ThumbQuality>100</ThumbQuality>
+            <ThumbTemplate>Picasa</ThumbTemplate>
+            <ThumbTemplateName>Shade</ThumbTemplateName>
+            <ThumbWidth>240</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/烤地瓜-1.jpg</url>
+                <title>烤地瓜-1</title>
+                <filesize>105287</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/烤地瓜-2.jpg</url>
+                <title>烤地瓜-2</title>
+                <filesize>115586</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/洋蔥留瀏器.png</url>
+                <title>洋蔥留瀏器</title>
+                <filesize>586626</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/googleAnalytics ba733115宋進忠.jpg</url>
+                <title>googleAnalytics ba733115宋進忠</title>
+                <filesize>387518</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/Firebase 填單前.jpg</url>
+                <title>Firebase 填單前</title>
+                <filesize>292931</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/Firebase 填單後.jpg</url>
+                <title>Firebase 填單後</title>
+                <filesize>320849</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/Google colab before2.jpg</url>
+                <title>Google colab before2</title>
+                <filesize>69947</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/Google colab after.jpg</url>
+                <title>Google colab after</title>
+                <filesize>86733</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/allen71/Desktop/電子商務作業/電子商務期末報告/機器人驗證.jpg</url>
+                <title>機器人驗證</title>
+                <filesize>168727</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
